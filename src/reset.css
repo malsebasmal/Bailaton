@@ -11,7 +11,7 @@
 */
 /* Aquí definimos las Custom properties */
 :root {
-  --blanco: black;
+  --blanco: white;
   /* Tipografía */
   --tipo-principal: 'Lato', sans-serif;
   --tipo-secundaria: 'Poppins', sans-serif;
@@ -20,7 +20,7 @@
 /* Las adaptamos al modo oscuro */
 @media (prefers-color-scheme: dark) {
   :root {
-    --negro: white;
+    --negro: black;
   }
 }
 /* Opcional */

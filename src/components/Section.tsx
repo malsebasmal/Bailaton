@@ -1,12 +1,13 @@
 import React from "react"
 
 interface SectionProps {
-  children: React.ReactNode
+  children: React.ReactNode,
+  style: string
 }
 
-function Section({ children }: SectionProps) {
+function Section({ children, style }: SectionProps) {
   return (
-    <section>
+    <section className={ style }>
       { children }
     </section>
   )
