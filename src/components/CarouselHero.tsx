@@ -10,7 +10,7 @@ function CarouselHero() {
   )
 
   return (
-      <div className="w-[20rem] h-[20rem] overflow-hidden rounded-full">
+      <div className="w-[30rem] h-[25rem] overflow-hidden rounded-full">
         <Carousel
           leftControl={<LeftControl />}
           rightControl={<RightControl />}

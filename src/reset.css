@@ -13,8 +13,8 @@
 :root {
   --blanco: white;
   /* Tipografía */
-  --tipo-principal: 'Lato', sans-serif;
-  --tipo-secundaria: 'Poppins', sans-serif;
+  --tipo-principal: 'Merriweather Sans Variable', sans-serif;
+  --tipo-secundaria: 'Merriweather Sans Variable', sans-serif;
 }
 
 /* Las adaptamos al modo oscuro */
@@ -131,9 +131,9 @@ table, tr, td {
 
 /* Evitamos problemas con los SVG */
 svg {
-  width: 100%;
+  /* width: 100%; */
   display: block;
-  fill: currentColor;
+  /* fill: currentColor; */
 }
 
 /* (Probándolo, no usar en producción) En el caso de añadir una  */

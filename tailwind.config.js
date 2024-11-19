@@ -7,7 +7,11 @@ module.exports = {
     flowbite.content()
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        title: ['"Playfair Display Variable"', 'serif']
+      },
+    },
   },
   plugins: [
     flowbite.plugin()
