@@ -14,7 +14,7 @@ function CardWhatIs() {
         <br />
         Si buscas buena música, comunidad y diversión, el Bailetón es el lugar ideal. ¡Anímate a vivirlo y siente el ritmo de Miraflores!
       </p>
-      <Link to="#" className="px-4 py-2 text-center rounded-lg bg-slate-400">
+      <Link to="/whereandwhen" className="px-4 py-2 text-center rounded-lg bg-slate-400">
         ¿Donde y cuando?
       </Link>
     </Card>

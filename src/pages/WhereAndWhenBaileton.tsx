@@ -1,6 +1,16 @@
+import Map from "@/components/Map";
+import Section from "@/components/Section";
+
 function WhereAndWhenBaileton() {
   return (
-    <div>This is Where and When you can go to baileton in miraflores page</div>
+    <Section style="flex flex-wrap justify-center items-center gap-16 w-full h-dvh">
+      <div className="flex justify-center items-center gap-3">
+        <h2>
+          ¿Dónde y cuando asistir al Baileton?
+        </h2>
+        <Map />
+      </div>
+    </Section>
   )
 }
 

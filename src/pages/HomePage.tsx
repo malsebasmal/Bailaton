@@ -1,5 +1,6 @@
 import Section from "@/components/Section"
 import CarouselHero from "@/components/CarouselHero"
+import { Link } from "react-router-dom"
 
 function HomePage() {
   return (
@@ -10,9 +11,8 @@ function HomePage() {
           <span className="text-7xl font-title text-[#373c84]">Baileton</span>
           <span className="text-3xl text-[#ebcc16]">Parque Kennedy - Miraflores</span> 
         </h1>
-        <button>¿Que es?</button>
+        <Link className="py-2 px-4 text-center bg-slate-600" to="/whatis">¿Que es?</Link>
       </div>
-      
     </Section>
   )
 }
