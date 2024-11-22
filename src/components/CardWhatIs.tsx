@@ -4,6 +4,9 @@ import { Link } from "react-router-dom"
 function CardWhatIs() {
   return (
     <Card className="max-w-sm">
+      <h2>
+        ¿Que es el Baileton?
+      </h2>
       <p className="text-gray-700 dark:text-gray-400">
         El Bailetón es una experiencia única que combina música, baile y diversión al aire libre.
         <br />

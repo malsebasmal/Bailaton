@@ -8,7 +8,7 @@ function HomePage() {
       <CarouselHero />
       <div className="flex flex-col items-center gap-6">
         <h1 className="flex flex-col items-center gap-3">
-          <span className="text-7xl font-title text-[#373c84]">Baileton</span>
+          <span className="text-7xl text-[#373c84]">Baileton</span>
           <span className="text-3xl text-[#ebcc16]">Parque Kennedy - Miraflores</span> 
         </h1>
         <Link className="py-2 px-4 text-center bg-slate-600" to="/whatis">¿Que es?</Link>

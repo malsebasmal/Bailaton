@@ -8,9 +8,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        title: ['"Playfair Display Variable"', 'serif']
-      },
     },
   },
   plugins: [

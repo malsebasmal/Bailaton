@@ -5,7 +5,6 @@ import { router } from "@/router/AppRouter"
 import './index.css'
 import "./reset.css"
 
-
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <RouterProvider router={router} />
