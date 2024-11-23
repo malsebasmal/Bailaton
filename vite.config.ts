@@ -7,8 +7,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      // Usar import.meta.url en lugar de __dirname
-      "@": path.resolve(new URL('./src', import.meta.url).pathname)
+      "@": path.resolve(__dirname, "./src")
     }
   }
 })
