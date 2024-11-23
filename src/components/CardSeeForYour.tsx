@@ -8,7 +8,7 @@ function CardSeeForYour() {
         Míralo por ti mismo
       </h2>
       <p>ga</p>
-      <Link to="/" className="px-4 py-2 text-center rounded-lg bg-slate-400">Home</Link>
+      <Link to="/" className="shadow-md shadow-orange-300 text-white font-bold rounded-r-lg py-2 px-4 text-center bg-org">Home</Link>
     </Card>
   )
 }

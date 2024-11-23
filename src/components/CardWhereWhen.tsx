@@ -10,7 +10,7 @@ function CardWhereWhen() {
       </h2>
       <Map />
       <p>¿Quieres ver como bailan?</p>
-      <Link to="/seeforyourself" className="px-4 py-2 text-center rounded-lg bg-slate-400">
+      <Link to="/seeforyourself" className="shadow-md shadow-orange-300 text-white font-bold rounded-r-lg py-2 px-4 text-center bg-org">
         Míralo por ti mismo
       </Link>
     </Card>

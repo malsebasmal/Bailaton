@@ -6,3 +6,12 @@
 .carousel-control-next {
   @apply hidden;
 }
+
+@layer utilities {
+  .text-shadow-subtitle {
+    text-shadow: 2px 2px 1px #ff930f;
+  }
+  .text-shadow-title {
+    text-shadow: 0px 0px 20px #fff95b;
+  }
+}

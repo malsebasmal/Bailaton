@@ -4,14 +4,14 @@ import { Link } from "react-router-dom"
 
 function HomePage() {
   return (
-    <Section style="flex flex-wrap justify-center items-center gap-16 w-full h-dvh">
+    <Section style="flex flex-wrap justify-center items-center gap-16 w-full [height:calc(100dvh_-_5rem)]">
       <CarouselHero />
       <div className="flex flex-col items-center gap-6">
         <h1 className="flex flex-col items-center gap-3">
-          <span className="text-7xl text-[#373c84]">Baileton</span>
-          <span className="text-3xl text-[#ebcc16]">Parque Kennedy - Miraflores</span> 
+          <span className="text-7xl text-shadow-title text-org">Baileton</span>
+          <span className="text-3xl text-shadow-subtitle text-ylw ">Parque Kennedy - Miraflores</span> 
         </h1>
-        <Link className="py-2 px-4 text-center bg-slate-600" to="/whatis">¿Que es?</Link>
+        <Link className="shadow-md shadow-orange-300 text-white font-bold rounded-r-lg py-2 px-4 text-center bg-org" to="/whatis">¿Que es?</Link>
       </div>
     </Section>
   )
