@@ -8,12 +8,12 @@ function Footer() {
         <ul className="flex justify-center items-center gap-4">
           <li>
             <a className="p-1" href="https://www.linkedin.com/in/antoniomaldonadotech/">
-              <img src="./github.svg" alt="github icon" />
+              <img src="./linkedin.svg" alt="linkedin icon" />
             </a>
           </li>
           <li>
             <a className="p-1" href="https://github.com/malsebasmal">
-              <img src="./linkedin.svg" alt="linkedin icon" />
+              <img src="./github.svg" alt="github icon" />
             </a>
           </li>
         </ul>

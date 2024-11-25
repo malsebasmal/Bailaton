@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="w-full h-20 flex justify-center items-center">
       <nav className="w-full h-full bg-[#fffdc5] flex justify-around items-center">
-        <Link to="/">
+        <Link to="/" className="msm:hidden tb:inline-block lg:inline-block">
           <img className="w-14 drop-shadow-org" src="dance.svg" alt="dance" />
         </Link>
         <ul className="flex gap-6">

@@ -8,6 +8,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        msm: "320px",
+        tb: "620px"
+      },
       colors: {
         org: "#ff930f",
         ylw: "#fff95b"
