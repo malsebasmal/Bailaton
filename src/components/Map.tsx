@@ -9,7 +9,7 @@ function Map() {
   }
 
   return (
-    <div className="relative w-80 h-96">
+    <div className="relative w-full h-56">
       {!isLoaded && (
         <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
           <Loader />

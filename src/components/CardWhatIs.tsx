@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 function CardWhatIs() {
   return (
     <Card className="max-w-lg border-2 border-solid border-org shadow-lg">
-      <h2 className="text-lg font-black text-center">
+      <h2 className="text-xl font-black text-center">
         ¿Que es el Bailaton?
       </h2>
       <p className="text-gray-700 dark:text-gray-400 text-pretty text-lg">

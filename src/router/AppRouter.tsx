@@ -5,12 +5,14 @@ import SeeForYourself from '@/pages/SeeForYourself'
 import WhatIsBaileton from '@/pages/WhatIsBaileton'
 import WhereAndWhenBaileton from '@/pages/WhereAndWhenBaileton'
 import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
 function Layout() {
   return (
     <>
       <Header />
       <Outlet />
+      <Footer />
     </>
   )
 }

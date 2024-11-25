@@ -4,8 +4,7 @@ Web about Bailaton in miraflores Lima, Perú. This event takes place outdoors an
 
 ## Tech Stack
 
-React, React Router, TailwindCSS, TypeScript and Vite
-
+React, React Router, TailwindCSS (flowbite), TypeScript and Vite
 
 ## Run project
 

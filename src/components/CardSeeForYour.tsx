@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 function CardSeeForYour() {
   return(
     <Card className="max-w-lg border-2 border-solid border-org shadow-lg">
-      <h2>
+      <h2 className="text-xl font-black text-center">
         Míralo por ti mismo
       </h2>
       <p>ga</p>
