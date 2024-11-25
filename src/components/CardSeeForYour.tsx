@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 function CardSeeForYour() {
   return(
-    <Card>
+    <Card className="max-w-lg border-2 border-solid border-org shadow-lg">
       <h2>
         Míralo por ti mismo
       </h2>
