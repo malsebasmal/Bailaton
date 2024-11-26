@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 function CardWhatIs() {
   return (
-    <Card className="mtb:max-w-lg mtb:h-auto w-full h-full border-2 border-solid border-org shadow-lg">
+    <Card className="mtb:max-w-lg mtb:h-auto w-full h-auto border-2 border-solid border-org shadow-lg">
       <h2 className="text-2xl font-black text-center">
         ¿Qué es el Bailaton?
       </h2>
