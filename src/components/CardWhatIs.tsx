@@ -5,7 +5,7 @@ function CardWhatIs() {
   return (
     <Card className="mtb:max-w-lg mtb:h-auto w-full h-full border-2 border-solid border-org shadow-lg">
       <h2 className="text-2xl font-black text-center">
-        ¿Que es el Bailaton?
+        ¿Qué es el Bailaton?
       </h2>
       <p className="text-gray-700 dark:text-gray-400 text-pretty text-lg">
         <span className="font-black">El Bailaton</span> es una experiencia única que combina <span className="font-black">música, baile y diversión al aire libre</span>.
@@ -14,7 +14,6 @@ function CardWhatIs() {
         <br />
         <span className="font-black">El ambiente es seguro, inclusivo y familiar, libre de alcohol y cigarrillos, gracias a la dedicación de su organizadora</span>.
         Aquí, tanto locales como turistas encuentran un espacio perfecto para bailar o simplemente disfrutar del espectáculo.
-        <br />
         <br />
         Si buscas buena música, comunidad y diversión, el Bailaton es el lugar ideal.
         <br />
