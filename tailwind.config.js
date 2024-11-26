@@ -10,7 +10,8 @@ module.exports = {
     extend: {
       screens: {
         msm: "320px",
-        tb: "620px"
+        tb: "620px",
+        mtb: "520px"
       },
       colors: {
         org: "#ff930f",
