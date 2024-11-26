@@ -10,7 +10,7 @@ function CarouselHero() {
   )
 
   return (
-      <div className="mtb:w-[30rem] w-[80vw] h-[25rem] overflow-hidden rounded-full">
+      <div className="animate-fade mtb:w-[30rem] w-[80vw] h-[25rem] overflow-hidden rounded-full">
         <Carousel
           leftControl={<LeftControl />}
           rightControl={<RightControl />}

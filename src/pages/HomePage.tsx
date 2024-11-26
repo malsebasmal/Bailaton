@@ -6,7 +6,7 @@ function HomePage() {
   return (
     <Section style="flex justify-center items-center mtb:gap-16 gap-8 w-full msm:flex-col-reverse lg:flex-row mtb:[height:calc(100dvh_-_5rem)] h-dvh mtb:p-0 px-4">
       <CarouselHero />
-      <div className="flex flex-col items-center gap-6">
+      <div className="flex flex-col items-center gap-6 animate-fade-down">
         <h1 className="flex flex-col text-center items-center gap-3">
           <span className="text-7xl font-bold text-shadow-title text-org">Bailaton</span>
           <span className="text-3xl font-semibold text-shadow-subtitle text-ylw ">Parque Kennedy, Miraflores</span> 
