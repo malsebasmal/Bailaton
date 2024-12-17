@@ -1,6 +1,6 @@
 import { Card } from "flowbite-react"
 import { Link } from "react-router-dom"
-import Map from "./Map"
+import Map from "@/components/WhereAndWhenBaileton/Map"
 
 function CardWhereWhen() {
   return (

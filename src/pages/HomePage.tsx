@@ -1,5 +1,5 @@
 import Section from "@/components/Section"
-import CarouselHero from "@/components/CarouselHero"
+import CarouselHero from "@/components/HomePage/CarouselHero"
 import { Link } from "react-router-dom"
 
 function HomePage() {

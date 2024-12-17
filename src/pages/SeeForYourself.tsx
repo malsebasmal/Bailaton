@@ -1,5 +1,5 @@
 import Section from "@/components/Section"
-import CardSeeForYour from "@/components/CardSeeForYour"
+import CardSeeForYour from "@/components/SeeFourYourself/CardSeeForYour"
 
 function SeeForYourself() {
   return (

@@ -1,5 +1,5 @@
 import Section from "@/components/Section";
-import CardWhereWhen from "@/components/CardWhereWhen";
+import CardWhereWhen from "@/components/WhereAndWhenBaileton/CardWhereWhen";
 
 function WhereAndWhenBaileton() {
   return (

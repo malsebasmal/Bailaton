@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Loader from "./Loader"
+import Loader from "@/components/WhereAndWhenBaileton/Loader"
 
 function Map() {
   const [isLoaded, setIsLoaded] = useState(false)

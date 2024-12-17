@@ -1,5 +1,5 @@
 import Section from "@/components/Section"
-import CardWhatIs from "@/components/CardWhatIs" 
+import CardWhatIs from "@/components/WhatIsBaileton/CardWhatIs" 
 
 function WhatIsBaileton() {
   return (
