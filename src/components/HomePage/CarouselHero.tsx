@@ -11,23 +11,23 @@ function CarouselHero() {
 
   const IMAGESBAILETON = [
     {
-      src: "/baileton/baileton1.webp",
+      src: "/baileton/images/baileton1.webp",
       alt: "image miraflores bailaton"
     },
     {
-      src: "/baileton/baileton2.webp",
+      src: "/baileton/images/baileton2.webp",
       alt: "image miraflores bailaton"
     },
     {
-      src: "/baileton/baileton3.webp",
+      src: "/baileton/images/baileton3.webp",
       alt: "image miraflores bailaton"
     },
     {
-      src: "/baileton/baileton4.webp",
+      src: "/baileton/images/baileton4.webp",
       alt: "image miraflores bailaton"
     },
     {
-      src: "/baileton/baileton5.webp",
+      src: "/baileton/images/baileton5.webp",
       alt: "image miraflores bailaton"
     }
   ]
